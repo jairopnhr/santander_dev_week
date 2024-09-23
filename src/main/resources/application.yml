@@ -2,3 +2,13 @@ spring:
   profiles:
     active:
     - prod
+
+MYSQLHOST: mysql.railway.internal
+MYSQLPORT: 3306
+MYSQLDATABASE: railway
+MYSQLUSER: 3306
+
+
+
+
+
